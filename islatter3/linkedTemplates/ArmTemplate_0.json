@@ -114,7 +114,7 @@
 					}
 				],
 				"typeProperties": {
-					"schema": "dportas",
+					"schema": "islatter",
 					"table": "dimcompany"
 				}
 			},
@@ -136,7 +136,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"container": "dportas"
+						"container": "islatter"
 					},
 					"columnDelimiter": "\t",
 					"escapeChar": "\\",
